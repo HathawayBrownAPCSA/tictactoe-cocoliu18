@@ -1,9 +1,9 @@
 Nice work all around.
 
 Question for you:  You duplicate a lot of code between "checkForWin" and "checkForX" - can you
-think of a way to be more efficient about it?
+think of a way to be more efficient about it?  What you have is functional but not good style.
 
 One option: have checkForWin return something other than a boolean - maybe something that has several different possible values.
 
 Well done overall.  Keep up the good work!
-10/10
+9.5/10
